@@ -12,8 +12,9 @@ npx tailwindcss init -p
 ```
 
 # DEMO
+https://github.com/DevJobalia/ReactToggler/assets/109411169/6b979e0e-4cce-43b4-b2ae-50031ac00f0e
 
-![RECORDING1](./DEMO/Vite%20+%20React%20-%20Brave%202023-09-22%2018-58-39.mp4)
+
 
 # REFERENCES:
 
