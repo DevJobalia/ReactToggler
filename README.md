@@ -11,6 +11,10 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
+# DEMO
+
+![RECORDING1](./DEMO/Vite%20+%20React%20-%20Brave%202023-09-22%2018-58-39.mp4)
+
 # REFERENCES:
 
 - [WORKING WITH DARK LIGHT MODE USING TAILWIND](https://youtu.be/WTchW0LdWL0)
